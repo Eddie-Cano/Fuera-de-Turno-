@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/studio-mr", "destination": "/studio-mr/index.html" },
+    { "source": "/blueberry-soda-3d", "destination": "/blueberry-soda-3d/index.html" },
+    { "source": "/portafolio", "destination": "/portafolio/index.html" }
+  ]
+}
